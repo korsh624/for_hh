@@ -1,0 +1,15 @@
+body{
+    background-color: azure;
+}
+.main_class{
+    color: #cc0000;
+    font-size: 24px;
+    font-family: "Times New Roman";
+    position: relative;
+
+}
+.main_class:hover{
+    color: #000000;
+    font-size: 25px;
+    font-family: "Imprint MT Shadow";
+}
